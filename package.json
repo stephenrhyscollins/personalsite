@@ -9,6 +9,7 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
+    "angular": "^1.8.3",
     "firebase": "^9.8.3",
     "firebase-tools": "^11.1.0"
   }
