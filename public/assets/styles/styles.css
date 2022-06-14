@@ -481,6 +481,7 @@ div.fill > .chevron {
     }
     div.fill {
         padding: 20px;
+        align-items: center;
     }
     div.fill > * {
         /* margin: 5px; */
